@@ -22,6 +22,6 @@ $teste = new teste;
 
 var_dump($teste)
 
-$teste->bar();
+($teste)->bar();
 
 ?>
